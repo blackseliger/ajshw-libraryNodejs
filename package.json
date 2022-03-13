@@ -16,9 +16,7 @@
     "url": "https://github.com/blackseliger/ajshw-libraryNodejs/issues"
   },
   "homepage": "https://github.com/blackseliger/ajshw-libraryNodejs#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+
   "description": "",
   "dependencies": {
     "@babel/cli": "^7.17.6",
