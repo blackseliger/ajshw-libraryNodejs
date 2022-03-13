@@ -16,16 +16,16 @@
     "url": "https://github.com/blackseliger/ajshw-libraryNodejs/issues"
   },
   "homepage": "https://github.com/blackseliger/ajshw-libraryNodejs#readme",
-  "devDependencies": {
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "description": "",
+  "dependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
     "@babel/preset-env": "^7.16.11",
     "babel-loader": "^8.2.3",
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "description": ""
+  }
 }
